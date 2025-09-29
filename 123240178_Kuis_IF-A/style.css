@@ -1,0 +1,12 @@
+body {
+    background-color: lightgray;
+}
+
+.berita {
+    background-color: white;
+}
+
+.berita:hover {
+    background-color: lightblue;
+    scale: 1.05;
+}
